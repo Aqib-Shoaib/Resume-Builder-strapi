@@ -1,0 +1,10 @@
+{
+  "name": "db-backup",
+  "version": "0.1.0",
+  "description": "Database backup plugin",
+  "strapi": {
+    "name": "db-backup"
+  },
+  "main": "strapi-server.js",
+  "license": "MIT"
+}
